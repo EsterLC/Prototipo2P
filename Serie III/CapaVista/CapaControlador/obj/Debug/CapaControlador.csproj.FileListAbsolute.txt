@@ -1,0 +1,9 @@
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
