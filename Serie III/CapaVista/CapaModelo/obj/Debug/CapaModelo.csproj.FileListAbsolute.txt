@@ -1,0 +1,6 @@
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\ester\OneDrive\Escritorio\Universidad\Octavo Semestre\Prototipo2P\Prototipo2P\Serie III\CapaVista\CapaModelo\obj\Debug\CapaModelo.pdb
